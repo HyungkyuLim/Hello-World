@@ -1,5 +1,5 @@
 # Hello-World
 
-Yo!
-
-Drop the beat !
+git checkout master
+git merge --no-ff readme-edits
+git push origin master
